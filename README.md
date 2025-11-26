@@ -19,20 +19,20 @@
 
 ## 🌟 About Me
 
-I'm an aspiring developer with interests in software engineering, web development, and tech innovation. Passionate about coding, learning, and building creative solutions.
+I'm an aspiring software developer with interests in data analytics, web development, and tech innovation. Passionate about coding, learning, and building creative solutions.
 
 ---
 
 ## 🛠️ Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
 </p>
 
 ## 🧰 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,sqlite,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,excel,sql" />
 </p>
 
 ---
