@@ -91,7 +91,7 @@
   <a href="https://github.com/Rohitha970/TicTacToe">GitHub Repo->Tic Tac Toe Game</a>
 
 - 🧮 **Calculator App**  
-  <a href="https://github.com/Rohitha970/Calculator_App">GitHub Repo->calculator app</a>
+  <a href="https://github.com/Rohitha970/calculator-app">GitHub Repo->calculator app</a>
 
 
 
