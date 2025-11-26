@@ -1,88 +1,106 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/T-Rohitha/T-Rohitha/main/assets/header.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=T.%20Rohitha&fontSize=60&fontAlignY=40&color=gradient&animation=twinkling&fontColor=ffffff"/>
 </p>
 
-<p align="center"><strong>Data Analyst</strong></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&color=FF2DF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Data+Analyst;Tech+Learner;Future+Backend+Developer;Building+Real+World+Projects;Learning+Every+Single+Day+🚀">
+</p>
+
 
 # 👋 Hi, I'm **T. Rohitha**
 
+*2nd Year Computer Science Student at Panimalar Engineering College Passionate about coding, web development, and building real-world projects.*
+
 <p align="center">
   <a href="https://www.linkedin.com/in/t-rohitha-4a0695356/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1Q7KPX1o8KfC4tZsvZlmSpf5EgX0lqzUK/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/t-rohitha-4a0695356/">
+    <img src="https://img.shields.io/badge/📄_Resume-00C853?style=for-the-badge"/>
   </a>
 </p>
 
----
-
-## 🌟 About Me
-
-I'm an aspiring software developer with interests in data analytics, web development, and tech innovation. Passionate about coding, learning, and building creative solutions.
-
----
 
 ## 🛠️ Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,c&perline=6" />
 </p>
 
 ## 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,excel,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea&perline=6" />
 </p>
 
----
+# 🚀 **Learning Now**
 
-## 📚 Learning Now
-
-* Full‑Stack Web Development
-* REST APIs & Backend Systems
-* Cloud Basics
-* Data Structures & Algorithms
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=T-Rohitha&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+- Advanced Python Projects  
+- SQL for Data Analytics  
+- Java Backend Basics  
+- Data Visualization  
+- Real-World Projects  
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 **GitHub Achievements**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Rohitha&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Rohitha&show_icons=true&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=dracula&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📊 **GitHub Stats**
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Rohitha&theme=react-dark" />
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rohitha970&show_icons=true&theme=radical&rank_icon=github" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitha970&layout=compact&theme=radical" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Rohitha970&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📈 **Contribution Graph**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Rohitha&repo=lalitha_groceries&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=T-Rohitha&repo=smart-quiz-application&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitha970&theme=redical&area=true&hide_border=false" />
 </p>
 
 ---
+
+
+# 🗂️ **Featured Projects**
+
+<p align="center">
+  <a href="https://github.com/Rohitha970/Lalitha_Groceries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitha970&repo=Lalitha_Groceries&theme=radical" />
+  </a>
+  <a href="https://github.com/Rohitha970/smart-quiz-application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitha970&repo=smart-quiz-application&theme=radical" />
+  </a>
+</p>
+
+
+# 👀 **Profile Views**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohitha970&style=for-the-badge&color=ff00ff" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/T-Rohitha/T-Rohitha/main/assets/dev.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+---
+
+<p align="center">
+  <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=550&lines=Code+%7C+Learn+%7C+Grow+%7C+Repeat;Never+Stop+Building+Amazing+Things+🚀">
 </p>
