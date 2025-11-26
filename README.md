@@ -27,10 +27,17 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,c&perline=6" />
 </p>
 
+
+
 ## 🧰 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea&perline=6" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,pycharm,postgresql&perline=4" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
+
+
 
 # 🚀 **Learning Now**
 
@@ -40,7 +47,7 @@
 - Data Visualization  
 - Real-World Projects  
 
----
+
 
 # 🏆 **GitHub Achievements**
 
@@ -48,17 +55,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=dracula&column=6&margin-w=10&margin-h=10" />
 </p>
 
----
+
+
+
+
 
 # 📊 **GitHub Stats**
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rohitha970&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitha970&layout=compact&theme=radical" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Rohitha970&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=dracula&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
----
+
+
+
 
 # 📈 **Contribution Graph**
 
@@ -66,19 +76,26 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitha970&theme=redical&area=true&hide_border=false" />
 </p>
 
----
+
 
 
 # 🗂️ **Featured Projects**
 
-<p align="center">
-  <a href="https://github.com/Rohitha970/Lalitha_Groceries">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitha970&repo=Lalitha_Groceries&theme=radical" />
-  </a>
-  <a href="https://github.com/Rohitha970/smart-quiz-application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitha970&repo=smart-quiz-application&theme=radical" />
-  </a>
-</p>
+- 🛒 **Lalitha Groceries**  
+  <a href="https://github.com/Rohitha970/Lalitha_Groceries">GitHub Repo->Lalitha Groceries</a>
+
+- 📝 **Smart Quiz Application**  
+  <a href="https://github.com/Rohitha970/smart-quiz-application">GitHub Repo->Quiz Application</a>
+
+- ❌⭕ **TicTacToe**  
+  <a href="https://github.com/Rohitha970/TicTacToe">GitHub Repo->Tic Tac Toe Game</a>
+
+- 🧮 **Calculator App**  
+  <a href="https://github.com/Rohitha970/Calculator_App">GitHub Repo->Calculator App</a>
+
+
+
+
 
 
 # 👀 **Profile Views**
@@ -93,13 +110,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
----
+
 
 <p align="center">
   <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=550&lines=Code+%7C+Learn+%7C+Grow+%7C+Repeat;Never+Stop+Building+Amazing+Things+🚀">
