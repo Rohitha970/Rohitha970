@@ -52,8 +52,9 @@
 # 🏆 **GitHub Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=dracula&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=dracula&margin-w=15&margin-h=15&row=1&column=6" />
 </p>
+
 
 
 
@@ -63,7 +64,9 @@
 # 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=dracula&no-frame=true&margin-w=10&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rohitha970&show_icons=true&theme=radical">
+
+  
 </p>
 
 
