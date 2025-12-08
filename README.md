@@ -46,16 +46,14 @@
 - Java Backend Basics  
 - Data Visualization  
 - Real-World Projects  
-
-
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=dracula&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true" />
+  <img src="https://github-stats-mu-henna.vercel.app/api?username=Rohitha970&show_icons=true&theme=radical" />
 </p>
 
 
