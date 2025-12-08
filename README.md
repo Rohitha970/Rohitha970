@@ -52,9 +52,7 @@
 # 🏆 **GitHub Achievements**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Commit%20Master-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Achievement-Code%20Warrior-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Achievement-Open%20Source%20Contributor-green?style=for-the-badge">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=onedark&margin-w=15&margin-h=15" />
 </p>
 
 
