@@ -50,13 +50,18 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=radical&no-frame=true&margin-w=15" />
 </p>
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitha970&show_icons=true&theme=radical" />
-  
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Real_Projects-20%2B-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tech_Learner-Everyday-orange?style=for-the-badge">
 </p>
 
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Keep%20Coding%20💻%20Keep%20Growing%20🚀&fontSize=35&fontColor=ffffff" />
+</p>
 
 
 # 📈 **Contribution Graph**
