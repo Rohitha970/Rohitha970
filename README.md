@@ -48,19 +48,33 @@
 - Real-World Projects  
 ## 🏆 GitHub Trophies
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://raw.githubusercontent.com/rohit-mp/Neon-Trophies/main/neon-trophy1.svg" width="140"/>
+  <img src="https://raw.githubusercontent.com/rohit-mp/Neon-Trophies/main/neon-trophy2.svg" width="140"/>
+  <img src="https://raw.githubusercontent.com/rohit-mp/Neon-Trophies/main/neon-trophy3.svg" width="140"/>
+  <img src="https://raw.githubusercontent.com/rohit-mp/Neon-Trophies/main/neon-trophy4.svg" width="140"/>
 </p>
+
 
 ## 📈 GitHub Stats
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitha970&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithat&theme=neon-dark&hide_border=true&ring=00F0FF&fire=FF00E1&currStreakLabel=00F0FF" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohithat&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F0FF&title_color=FF00E1&text_color=C8F6FF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithat&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rohitha970&theme=radical" />
+  <img src="https://img.shields.io/badge/Developer-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0A0F1F" />
+  <img src="https://img.shields.io/badge/Designer-FF00E1?style=for-the-badge&logo=figma&logoColor=black&labelColor=0A0F1F" />
+  <img src="https://img.shields.io/badge/Engineer-8A2BE2?style=for-the-badge&logo=codepen&logoColor=black&labelColor=0A0F1F" />
 </p>
+
+
 
 # 📈 **Contribution Graph**
 
