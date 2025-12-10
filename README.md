@@ -49,30 +49,40 @@
 ## 🏆 GitHub Trophies
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohit-mp/Neon-Trophies/main/neon-trophy1.svg" width="140"/>
-  <img src="https://raw.githubusercontent.com/rohit-mp/Neon-Trophies/main/neon-trophy2.svg" width="140"/>
-  <img src="https://raw.githubusercontent.com/rohit-mp/Neon-Trophies/main/neon-trophy3.svg" width="140"/>
-  <img src="https://raw.githubusercontent.com/rohit-mp/Neon-Trophies/main/neon-trophy4.svg" width="140"/>
-</p>
-
-
-## 📈 GitHub Stats
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithat&theme=neon-dark&hide_border=true&ring=00F0FF&fire=FF00E1&currStreakLabel=00F0FF" height="180">
+  <img src="https://img.shields.io/badge/⭐%20GitHub%20Star-Gold-F7D600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦%20Repositories-Active-F7D600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️%20Commits-Consistent-F7D600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Projects-Launched-F7D600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐛%20Issues%20Solved-Professional-F7D600?style=for-the-badge" />
 </p>
 
+
+
+
+## ⚡  GitHub Stats
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohithat&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F0FF&title_color=FF00E1&text_color=C8F6FF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithat&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+  <!-- Cyber Gold to Orange -->
+  <img src="https://img.shields.io/badge/Activity-92%25-FBCB0A?style=for-the-badge&logo=pulse&logoColor=000&labelColor=1A0F0F" />
+
+  <!-- Royal Blue Neon -->
+  <img src="https://img.shields.io/badge/Productivity-Elite-0099FF?style=for-the-badge&logo=zap&logoColor=000&labelColor=0A0A1A" />
+
+  <!-- Purple Royal Glow -->
+  <img src="https://img.shields.io/badge/Public_Repos-16-FF00E1?style=for-the-badge&logo=github&logoColor=000&labelColor=150A1F" />
+
+  <!-- Lava Red Neon -->
+  <img src="https://img.shields.io/badge/Streak-🔥_Active-00F0FF?style=for-the-badge&logo=fire&logoColor=000&labelColor=1A0F0A" />
+
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0A0F1F" />
-  <img src="https://img.shields.io/badge/Designer-FF00E1?style=for-the-badge&logo=figma&logoColor=black&labelColor=0A0F1F" />
-  <img src="https://img.shields.io/badge/Engineer-8A2BE2?style=for-the-badge&logo=codepen&logoColor=black&labelColor=0A0F1F" />
-</p>
+
+
+
 
 
 
@@ -87,20 +97,20 @@
 
 # 🗂️ **Featured Projects**
 
-- 🛒 **Lalitha Groceries**  
-  <a href="https://github.com/Rohitha970/Lalitha_Groceries">GitHub Repo->Lalitha Groceries</a>
-
-- 📝 **Smart Quiz Application**  
-  <a href="https://github.com/Rohitha970/smart-quiz-application">GitHub Repo->Quiz Application</a>
-
-- ❌⭕ **TicTacToe**  
-  <a href="https://github.com/Rohitha970/TicTacToe">GitHub Repo->Tic Tac Toe Game</a>
-
-- 🧮 **Calculator App**  
-  <a href="https://github.com/Rohitha970/calculator-app">GitHub Repo->calculator app</a>
+- 
 
 
+🛒 **Lalitha Groceries**  
+<a href="https://github.com/Rohitha970/Lalitha_Groceries">GitHub Repo → Lalitha Groceries</a>
 
+📝 **Smart Quiz Application**  
+<a href="https://github.com/Rohitha970/smart-quiz-application">GitHub Repo → Quiz Application</a>
+
+🏨 **Lalitha Grand Hotel**  
+<a href="https://github.com/Rohitha970/Lalitha-Grand-Hotel">GitHub Repo → Lalitha Grand Hotel</a>
+
+🧮 **Calculator App**  
+<a href="https://github.com/Rohitha970/calculator-app">GitHub Repo → Calculator App</a>
 
 
 
