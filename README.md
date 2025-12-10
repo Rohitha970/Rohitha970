@@ -57,7 +57,7 @@
 </p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=monokai&no-frame=true&margin-w=15&row=1&column=7" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=matrix&no-frame=true&margin-w=10&row=2&column=4" /> </p>
 <p align="center"> <img src="https://img.shields.io/badge/🔥_Active_Learner-Gold-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/🚀_Projects_Completed-20%2B-gold?style=for-the-badge" /> <img src="https://img.shields.io/badge/⭐_Open_Source-Contributor-ffd700?style=for-the-badge" /> </p>
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=algolia&no-frame=true&margin-w=15&row=1&column=7" /> </p>
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -65,8 +65,8 @@
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rohitha970&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=20&include_all_commits=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitha970&layout=compact&theme=tokyonight&border_radius=20" height="170" /> </p>
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Rohitha970&theme=tokyonight&border_radius=20" /> </p>
-
-
+<p align="center"> <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rohitha970&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&card_width=450" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Rohitha970&theme=transparent&hide_border=true" /> </p>
 # 📈 **Contribution Graph**
 
 <p align="center">
