@@ -55,13 +55,16 @@
   <img src="https://img.shields.io/badge/Real_Projects-20%2B-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tech_Learner-Everyday-orange?style=for-the-badge">
 </p>
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=monokai&no-frame=true&margin-w=15&row=1&column=7" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rohitha970&theme=matrix&no-frame=true&margin-w=10&row=2&column=4" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/🔥_Active_Learner-Gold-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/🚀_Projects_Completed-20%2B-gold?style=for-the-badge" /> <img src="https://img.shields.io/badge/⭐_Open_Source-Contributor-ffd700?style=for-the-badge" /> </p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Keep%20Coding%20💻%20Keep%20Growing%20🚀&fontSize=35&fontColor=ffffff" />
 </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rohitha970&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=20&include_all_commits=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitha970&layout=compact&theme=tokyonight&border_radius=20" height="170" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Rohitha970&theme=tokyonight&border_radius=20" /> </p>
 
 
 # 📈 **Contribution Graph**
