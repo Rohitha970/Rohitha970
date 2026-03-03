@@ -110,6 +110,7 @@
 <a href="https://github.com/Rohitha970/Lalitha-Grand-Hotel">GitHub Repo → Lalitha Grand Hotel</a>
 
 🏠 **House Price Prediction Web App**
+
 <a href="https://github.com/Rohitha970/Houseprice">GitHub Repo → House Price Prediction</a>
 
 
