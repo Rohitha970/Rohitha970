@@ -109,8 +109,9 @@
 🏨 **Lalitha Grand Hotel**  
 <a href="https://github.com/Rohitha970/Lalitha-Grand-Hotel">GitHub Repo → Lalitha Grand Hotel</a>
 
-🧮 **Calculator App**  
-<a href="https://github.com/Rohitha970/calculator-app">GitHub Repo → Calculator App</a>
+🏠 **House Price Prediction Web App**
+
+<a href="https://github.com/Rohitha970/Houseprice">GitHub Repo → House Price Prediction</a>
 
 
 
@@ -119,7 +120,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohitha970&style=for-the-badge&color=ff00ff" />
 </p>
-
 ---
 
 <p align="center">
