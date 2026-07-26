@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm **T. Rohitha**
 
-*2nd Year Computer Science Student at Panimalar Engineering College Passionate about coding, web development, and building real-world projects.*
+*Pre-Final Year Computer Science Student at Panimalar Engineering College Passionate about coding, web development, and building real-world projects.*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/t-rohitha-4a0695356/">
